@@ -16,13 +16,13 @@ The purpose of this project was the take UFO sighting information stored in the 
 
 The app it self is reactive to user inputs, so when the user types in one or more of the filter boxes and hits enter the table automatically updates to reflect the users desired information. This is demonstrated in the images below. The web app itself is also stylized with a dark theme and examples of how to filter the table (the "e.g." texts within the boxes).
 
-### Image of the unfiltered table
+#### Image of the unfiltered table
 ![](static/images/unfiltered.png)
 
-### Image of the table filtered for the state "ky"
+#### Image of the table filtered for the state "ky"
 ![](static/images/filtered.png)
 
-### Image of the table with multiple filters
+#### Image of the table with multiple filters
 ![](static/images/multifiltered.png)
 
 
