@@ -7,6 +7,7 @@
 
 *   Software
     *   Visual Studio Code 1.63.2
+    *   Google Chrome 99.0.4844.51 (Official Build) (32-bit)
 
 ## Overview
 
