@@ -11,7 +11,7 @@
 
 ## Overview
 
-The purpose of this project was the take UFO sighting information stored in the ![data.js](static/JS/data.js) array and display it in a web browser via HTML. The data needed to be in a table format and filterable with user inputs (i.e. date, state, etc.)
+The purpose of this project was the take UFO sighting information stored in the [data.js](static/JS/data.js) array and display it in a web browser via HTML. The data needed to be in a table format and filterable with user inputs (i.e. date, state, etc.)
 
 ## Results/Instructions
 
