@@ -3,7 +3,7 @@
 ## Resources
 
 *   Data source
-    *   ![data.js](static/JS/data.js)
+    *   [data.js](static/JS/data.js)
 
 *   Software
     *   Visual Studio Code 1.63.2
